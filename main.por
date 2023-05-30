@@ -1,5 +1,7 @@
 programa {
-  funcao inicio() {
-    escreva("Olá, mundo!")
-  }
+	funcao inicio() {
+	
+	escreva("Bob")
+	
+	}
 }
