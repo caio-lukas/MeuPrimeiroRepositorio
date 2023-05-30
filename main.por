@@ -1,7 +1,14 @@
 programa {
 	funcao inicio() {
 	
-	escreva("Bob")
+	escrevaBob()
+	escreva("Caio Tuller")
 	
+	}
+
+	funcao escrevaBob(){
+	
+	escreva("Eu sou Bob!")
+
 	}
 }
